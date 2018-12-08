@@ -1,7 +1,7 @@
 # _Your project title_
 
-- _your name_
-- _your email (uoit.net)_
+- _Rameet Sekhon_
+- _rameet.sekhon@uoit.net_
 
 ## About the language
 
