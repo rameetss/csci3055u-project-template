@@ -27,7 +27,7 @@
 
 ## About the tools
 
-> _Describe the compiler or interpreter needed_.
+> _Compiling a Scala program requires the Java RunTime Environment and Scala to be installed_.
 
 ## About the standard library
 
