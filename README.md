@@ -1,13 +1,13 @@
-# _Your project title_
+# _Scala_
 
 - _Rameet Sekhon_
 - _rameet.sekhon@uoit.net_
 
 ## About the language
 
-> _Describe the language_
+> _Scala is a high level language that utilizes both object oriented and functional programming together. It runs on existing Java platform and has similar runtime to javascript._
 >
-> - History
+> - Scala first began in 2001 at  École Polytechnique Fédérale de Lausanne by Martin Odersky in Switzerland. This language built upon Oderskys' previous work within Java, as well as Funnel. Scalas preliminary release was in 2003, followed by a public release in 2004. A revised secondary version was released in 2006. Moving forward to 2011, the Scala team won a 5 year research grant from the European Research Council and in 2011 Odersky launched Lightbend. Lightbend is a service to help train, and support people using Scala.
 > - Some interesting features
 
 ## About the syntax
