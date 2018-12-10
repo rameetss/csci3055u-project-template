@@ -28,6 +28,9 @@
 ## About the tools
 
 > _Compiling a Scala program requires the Java RunTime Environment and Scala to be installed_.
+> - Java can be installed through the JDK
+> - Scala must be downloaded from their website
+> - It is then run thorugh commands in the terminal
 
 ## About the standard library
 
