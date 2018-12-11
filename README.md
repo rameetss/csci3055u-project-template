@@ -15,14 +15,14 @@
 
 ## About the syntax
 
-> _give some code snippet of the language_
+> _Here are some snippets of common programs run on devices_
 
-*Let form*
+*Hello World*
 
-```clojure
-(let [x 10
-      y 20]
-  (+ x y))
+```Scala
+object Main extends App {
+  println("Hello, World!")
+}
 ```
 
 ## About the tools
