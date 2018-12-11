@@ -41,8 +41,8 @@ object Main extends App {
   println(Greeting)
 }
 ```
-> _Scala is case sensitive so we can see here that the variable greeting is different than Greeting_
-> _Comments in scala utilize // as we can see 2 coments have been inserted into the code_
+> _Scala is case sensitive so we can see here that the variable greeting is different than Greeting._
+> _Comments in scala utilize // as we can see 2 coments have been inserted into the code._
 
 *Hello World*
 
