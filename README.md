@@ -24,8 +24,8 @@ object Main extends App {
   println("Hello, World!")
 }
 ```
-> From this snippet we can see that there are no semi colons at the end of each line like c++
-> It has a similar structure to Javascript
+> _From this snippet we can see that there are no semi colons at the end of each line like c++_
+> _It has a similar structure to Javascript_
 
 *Hello World*
 
@@ -41,8 +41,8 @@ object Main extends App {
   println(Greeting)
 }
 ```
-> Scala is case sensitive so we can see here that the variable greeting is different than Greeting
-> Comments in scala utilize // as we can see 2 coments have been inserted into the code
+> _Scala is case sensitive so we can see here that the variable greeting is different than Greeting_
+> _Comments in scala utilize // as we can see 2 coments have been inserted into the code_
 
 *Hello World*
 
@@ -58,8 +58,8 @@ def myFirstMethod(args: Array[String]){
   }
 }
 ```
-> Class names should also start with a capital letter such as: "MyFirstProgram"
-> Function names should begin with a lower case such as: "myFirstProgram"
+> _Class names should also start with a capital letter such as: "MyFirstProgram"_
+> _Function names should begin with a lower case such as: "myFirstProgram"_
 
 ## About the tools
 
