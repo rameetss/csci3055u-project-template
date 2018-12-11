@@ -24,6 +24,23 @@ object Main extends App {
   println("Hello, World!")
 }
 ```
+> From this snippet we can see that there are no semi colons at the end of each line like c++
+> It has a similar structure to Javascript
+
+*Hello World*
+
+```Scala
+object Main extends App {
+  println("Hello, World!")
+}
+```
+*Hello World*
+
+```Scala
+object Main extends App {
+  println("Hello, World!")
+}
+```
 
 ## About the tools
 
