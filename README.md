@@ -10,7 +10,7 @@
 > - Scala first began in 2001 at  École Polytechnique Fédérale de Lausanne by Martin Odersky in Switzerland. This language built upon Oderskys' previous work within Java, as well as Funnel. Scalas preliminary release was in 2003, followed by a public release in 2004. A revised secondary version was released in 2006. Moving forward to 2011, the Scala team won a 5 year research grant from the European Research Council and in 2011 Odersky launched Lightbend. Lightbend is a service to help train, and support people using Scala.
 
 > - Scala was intended to be compiled using Java, and as a result the exe code runs on Java machines
-> - Because of this compatibility with Java Scala is also suitable for Android developemtn, which also is typically written in Java
+> - Because of this compatibility with Java Scala is also suitable for Android development, which also is typically written in Java
 > - Scala also has a javascript compiler which enables Scala to be run on web browsers
 
 ## About the syntax
@@ -31,16 +31,35 @@ object Main extends App {
 
 ```Scala
 object Main extends App {
-  println("Hello, World!")
+
+  //Define variables and values here
+  val greeting = "Hello everyone!"
+  val Greeting = "See, grammar is important"
+  
+  //output the variables
+  println(greeting)
+  println(Greeting)
 }
 ```
+> Scala is case sensitive so we can see here that the variable greeting is different than Greeting
+> Comments in scala utilize // as we can see 2 coments have been inserted into the code
+
 *Hello World*
 
 ```Scala
 object Main extends App {
-  println("Hello, World!")
+class MyFirstProgram{
+def myFirstMethod(args: Array[String]){
+  val greeting = "Hello everyone!"
+  val Greeting = "See, grammar is important"
+  println(greeting)
+  println(Greeting)
+    }
+  }
 }
 ```
+> Class names should also start with a capital letter such as: "MyFirstProgram"
+> Function names should begin with a lower case such as: "myFirstProgram"
 
 ## About the tools
 
